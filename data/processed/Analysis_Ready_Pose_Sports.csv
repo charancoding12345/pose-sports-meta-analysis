@@ -1,0 +1,1 @@
+StudyID,Metric_Family(keep_separate:MPJPE/PCK/mAP),Metric_Name,Algorithm_Name,Sport,Setting,N,Mean,SD,Proportion_0to1,Proportion_SE(optional),Is_3D(0/1),Indoor(0/1),MultiCamera(0/1),FrameRate,Resolution_width_px,Resolution_height_px,Lighting_Rated(1=Poor..5=Excellent),Publication_Year
